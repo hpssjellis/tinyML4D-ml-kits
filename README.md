@@ -2,7 +2,7 @@
 What machine learning kits are the best educational value for the lowest price and ease of use.
 
 
-Around 2020 the [Arduino Tiny Machine Learning Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) for $60 USD or €50 was a Nano33BleSense with a OV7675 camera that coverred most of the beginner Machine Learning activities and even allowed using upto 18 different sensors that the board comes with. This kit was sent in groups of 10 to multiple Univsersities in Developing countries by both [TinyML4D](https://tinyml.seas.harvard.edu/) and [EdgeImpulse.com](https://www.edgeimpulse.com/)
+Around 2020 the [Arduino Tiny Machine Learning Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) for $60 USD or €50 contains a Nano33BleSense with an OV7675 camera that covered most of the beginner Machine Learning activities and even allowed using upto 18 different sensors that the board comes with. This kit was sent in groups of 10 to multiple Univsersities in Developing countries by both [TinyML4D](https://tinyml.seas.harvard.edu/) and [EdgeImpulse.com](https://www.edgeimpulse.com/)
 
 Around 2022 that kit had components that were not available so the Nano33BleSense Rev2 was made with slightly different components which potentially has broken a few lessons.
 
