@@ -1,6 +1,8 @@
 # tinyML4D-ml-kits
 What are the best educational value machine learning kits for the lowest price and ease of use?
 
+Please post PR's to the site if you have any corrections or additions.
+
 
 In 2021, the [Arduino Tiny Machine Learning Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) for $60 USD or €50 contained a Nano33BleSense with an OV7675 camera that covered most beginner Machine Learning activities. It even allowed using up to 18 different sensors that the board comes with. This kit was sent in groups of 10 to multiple universities in developing countries by both [TinyML4D](https://tinyml.seas.harvard.edu/) and [EdgeImpulse.com](https://www.edgeimpulse.com/).
 
@@ -70,30 +72,4 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 .
 
-
-
-.
-
-<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/252f8d02-1d24-41b9-9579-232d5d456601" width=300 />
-<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/70e75c60-aeb1-43d2-8fd8-171ca9a92e3d" width=300 />
-<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/8322f5fa-be96-4568-af08-f022c245b735" width=300 />
-<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba" width=300 />
-<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/ec64b824-19b5-45e1-9391-6949646b7628" alt="Grove Starter Kit" width=300 />
-
-
-
-
-![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/252f8d02-1d24-41b9-9579-232d5d456601)
-
-
-![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/70e75c60-aeb1-43d2-8fd8-171ca9a92e3d)
-
-
-
-![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/8322f5fa-be96-4568-af08-f022c245b735)
-
-![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba)
-
-
-![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/ec64b824-19b5-45e1-9391-6949646b7628)
 
