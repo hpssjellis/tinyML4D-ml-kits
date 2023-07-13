@@ -38,11 +38,14 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 
 
-|----|----|----|----|------|
-|Board|cost USD|Pros|Cons|Other|
-|Board|cost USD|Pros|Cons|Other|
-|Board|cost USD|Pros|Cons|Other|
-|Board|cost USD|Pros|Cons|Other|
+| ---- | ---- | ---- | ---- | ------ |
+| Board | cost USD | Pros | Cons | Other |
+| Board | cost USD | Pros | Cons | Other |
+| Board | cost USD | Pros | Cons | Other |
+| Board | cost USD | Pros | Cons | Other |
+| Board | cost USD | Pros | Cons | Other |
+| Board | cost USD | Pros | Cons | Other |
+
 
 
 
