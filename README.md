@@ -40,12 +40,15 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 | Board | cost USD | Image | Pros | Cons | Other |
 | --- | --- | --- | --- | --- |--- |
+| [Arduino ML Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) | $60 | <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba" width=300 /> | Everything you need to get started: vision, Sound, Motion and up to 18 Senses, also has BLE for some IOT connectivity | Rev2 code is different than Rev1 and the Camera Resolution processing abilities are not as powerful as some modern boards | Other |
 | [Arduino Nicla Vision](https://store-usa.arduino.cc/products/nicla-vision) | $115 | <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/252f8d02-1d24-41b9-9579-232d5d456601" width=300 /> | Has all the basic Machine learning abilities of Motion, Sound and Vision, and all of those abilities are better and faster than the old Arduino ML kit. Also has a dual core similar to the PortentaH7 for more advanced processing. | High cost and fewer sensors than the Nano33BleSense | Other |
-| [Seeedstudio XiaoEsp32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | $13.99 | <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/70e75c60-aeb1-43d2-8fd8-171ca9a92e3d" width=300 /> | Has Vision and Sound with WiFI and BLE and an SD Card. Other senses can be inputed using the 10 pins. Very well built and efficiently programmed. The SD card is useful for simplifying data collection. WiFi abilities allows IOT connectivity | Less access to English speaking online help. The reset button is so small I had to 3D print a little clip to hold it down to put the board in DFU mode while plugging it in. | For any University that already has a robotics lab with sensors and actuators this in my opinion is the best board to get started on teaching Machine Learning in a classroom/lab setting |
+| [Seeedstudio XiaoEsp32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | $13.99 | <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/8322f5fa-be96-4568-af08-f022c245b735" width=300 /> | Has Vision and Sound with WiFI and BLE and an SD Card. Other senses can be inputed using the 10 pins. Very well built and efficiently programmed. The SD card is useful for simplifying data collection. WiFi abilities allows IOT connectivity | Less access to English speaking online help. The reset button is so small I had to 3D print a little clip to hold it down to put the board in DFU mode while plugging it in. | For any University that already has a robotics lab with sensors and actuators this in my opinion is the best board to get started on teaching Machine Learning in a classroom/lab setting |
 | Board | cost USD | Image | Pros | Cons | Other |
 
 <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/252f8d02-1d24-41b9-9579-232d5d456601" width=300 />
 <img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/70e75c60-aeb1-43d2-8fd8-171ca9a92e3d" width=300 />
+<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/8322f5fa-be96-4568-af08-f022c245b735" width=300 />
+<img src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba" width=300 />
 
 
 
@@ -57,7 +60,9 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 
 
+![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/8322f5fa-be96-4568-af08-f022c245b735)
 
+![image](https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba)
 
 
 
