@@ -1,12 +1,10 @@
 # tinyML4D-ml-kits
-What machine learning kits are the best educational value for the lowest price and ease of use.
+What are the best educational value machine learning kits for the lowest price and ease of use?
 
 
-Around 2020 the [Arduino Tiny Machine Learning Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) for $60 USD or €50 contains a Nano33BleSense with an OV7675 camera that covered most of the beginner Machine Learning activities and even allowed using up to 18 different sensors that the board comes with. This kit was sent in groups of 10 to multiple Univsersities in Developing countries by both [TinyML4D](https://tinyml.seas.harvard.edu/) and [EdgeImpulse.com](https://www.edgeimpulse.com/)
+In 2021, the [Arduino Tiny Machine Learning Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) for $60 USD or €50 contained a Nano33BleSense with an OV7675 camera that covered most beginner Machine Learning activities. It even allowed using up to 18 different sensors that the board comes with. This kit was sent in groups of 10 to multiple universities in developing countries by both [TinyML4D](https://tinyml.seas.harvard.edu/) and [EdgeImpulse.com](https://www.edgeimpulse.com/).
 
-Around 2022 that kit had components that were not available so the Nano33BleSense Rev2 was made with slightly different components which potentially has broken a few lessons.
-
-The following code should help the transition from Rev1 to Rev2
+In 2022, some components of that kit were not available, so the Nano33BleSense Rev2 was made with slightly different components, which potentially broke a few lessons. The following code should help the transition from Rev1 to Rev2:
 
 ```
 // REV 2 CHANGES HERE 
@@ -26,7 +24,7 @@ The following code should help the transition from Rev1 to Rev2
 
 The define  ```#define HTS HS300x``` allows old code to change all HTS to the new needed class HS300x which should allow old code to work with the REV2 changes.
 
-As of July 2023 there are more powerful and low cost solutions for teaching Machine Learning, but are they better than the Arduino ML Kit?
+As of July 2023, there are more powerful and low-cost solutions for teaching Machine Learning, but are they better than the Arduino ML Kit? This site has been made to explore that question and perhaps give some other options and why to choose those options.
 
 
 This site has been made to explore that question and perhaps give some other options and why to choose those options.
@@ -36,7 +34,11 @@ This site has been made to explore that question and perhaps give some other opt
 
 
 
+------------------------------------------
 
+Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased towards my own course [maker100](https://github.com/hpssjellis/maker100), which uses both the Arduino PortentaH7 with LoRa vision shield (and the ethernet vision shield) to teach high school students in a hands-on, minimal lecture environment, teaching Robotics with sensors, actuators, IOT and Machine Learning.
+
+--------------------
 
 
 
