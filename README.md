@@ -27,10 +27,6 @@ The define  ```#define HTS HS300x``` allows old code to change all HTS to the ne
 As of July 2023, there are more powerful and low-cost solutions for teaching Machine Learning, but are they better than the Arduino ML Kit? This site has been made to explore that question and perhaps give some other options and why to choose those options.
 
 
-This site has been made to explore that question and perhaps give some other options and why to choose those options.
-
-
-
 
 
 
@@ -39,6 +35,15 @@ This site has been made to explore that question and perhaps give some other opt
 Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased towards my own course [maker100](https://github.com/hpssjellis/maker100), which uses both the Arduino PortentaH7 with LoRa vision shield (and the ethernet vision shield) to teach high school students in a hands-on, minimal lecture environment, teaching Robotics with sensors, actuators, IOT and Machine Learning.
 
 --------------------
+
+
+
+|----|----|----|----|------|
+|Board|cost USD|Pros|Cons|Other|
+|Board|cost USD|Pros|Cons|Other|
+|Board|cost USD|Pros|Cons|Other|
+|Board|cost USD|Pros|Cons|Other|
+
 
 
 
