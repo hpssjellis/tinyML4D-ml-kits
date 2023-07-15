@@ -40,6 +40,8 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 
 
+# TimyML4D Machine Learning Kit Suggestions
+
 | Board | cost USD | Image | Pros | Cons | Other |
 | --- | --- | --- | --- | --- |--- |
 | [Arduino ML Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) | $60 | <img title="Arduino ML Kit" src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba" width=300 /> | Everything you need to get started: vision, Sound, Motion and up to 18 Senses, also has BLE for some IOT connectivity | Rev2 code is different than Rev1 and the Camera Resolution processing abilities are not as powerful as some modern boards | - |
