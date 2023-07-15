@@ -42,7 +42,7 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 
 # TimyML4D Machine Learning Kit Suggestions
 
-| Board | cost USD | Image | Pros | Cons | Other |
+| Board | cost USD, <br>Add Customs and Shipping | Image | Pros | Cons | Other |
 | --- | --- | --- | --- | --- |--- |
 | [Arduino ML Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) | $60 | <img title="Arduino ML Kit" src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/0d974b37-8f75-4d56-aa5d-97a31096e4ba" width=300 /> | Everything you need to get started: vision, Sound, Motion and up to 18 Senses, also has BLE for some IOT connectivity | Rev2 code is different than Rev1 and the Camera Resolution processing abilities are not as powerful as some modern boards | - |
 | [Arduino Nicla Vision](https://store-usa.arduino.cc/products/nicla-vision) | $115 | <img title="Arduino Nicla Vision" src="https://github.com/hpssjellis/tinyML4D-ml-kits/assets/5605614/252f8d02-1d24-41b9-9579-232d5d456601" width=300 /> | Has all the basic Machine learning abilities of Motion, Sound and Vision, and all of those abilities are better and faster than the old Arduino ML kit. Also has a dual core similar to the PortentaH7 for more advanced processing. | High cost and fewer sensors than the Nano33BleSense. No SD card to simplify data collection | For any University that already has a robotics lab with sensors and actuators this, in my opinion, is the best edgeimpulse fully supported board with Arduino Multilanguage support. By having Vision, Sound and Motion on the same board it makes getting started with ML very easy.  |
