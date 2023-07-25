@@ -56,7 +56,7 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 |<a name="10" href="#10">`10`</a> Bosch ML Kit |  |  |  | |  |
 |<a name="11" href="#11">`11`</a> Renesas ML Kit |  |  |  | |  |
 |<a name="12" href="#12">`12`</a> [Sony Spresense ML Kit](https://developer.sony.com/spresense/) |  |  |  | |  |
-|<a name="06" href="#06">`06`</a> Board | cost USD | Image | Pros | Cons | Other |
+|<a name="13" href="#13">`13`</a> [Arducam ico4ML](https://www.uctronics.com/arducam-pico4ml-tinyml-dev-kit-rp2040-board-w-qvga-camera-bluetooth-module-lcd-screen-onboard-audio-more.html) | $25-30.99 (with BLE) |  | Has camera, IMU, microphone and LCD on the board | I could never get it working with the Arduino IDE. I havn't tried in a while | No Wifi, great price |
 |<a name="06" href="#06">`06`</a> Board | cost USD | Image | Pros | Cons | Other |
 
 
