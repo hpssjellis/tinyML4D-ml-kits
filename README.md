@@ -51,7 +51,7 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 |<a name="05" href="#05">`05`</a> my [Maker100](https://github.com/hpssjellis/maker100/blob/main/price-list-2024.md) | $500.00 |  | Pro: A complete set of Robotics, sensors, actuators, IOT and Machine Learning | Con: The large cost per student or cost per small groups of students | This course [maker100](https://github.com/hpssjellis/maker100) looks at multiple uses for Machine Learning and uses hands on methods to show students what is possible|
 |<a name="06" href="#06">`06`</a> [rp2040 pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) |  |  |  | |  |
 |<a name="07" href="#07">`07`</a> [NXP ML Kit](https://www.nxp.com/) |  |  |  | |  |
-|<a name="08" href="#08">`08`</a> [ST ML Kit(https://www.st.com/en/microcontrollers-microprocessors.html) |  |  |  | |  |
+|<a name="08" href="#08">`08`</a> [ST ML Kit](https://www.st.com/en/microcontrollers-microprocessors.html) |  |  |  | |  |
 |<a name="09" href="#09">`09`</a> [Syntiant ML Kit](https://www.syntiant.com/tinyml) |  |  |  | |  |
 |<a name="10" href="#10">`10`</a> Bosch ML Kit |  |  |  | |  |
 |<a name="11" href="#11">`11`</a> Renesas ML Kit |  |  |  | |  |
