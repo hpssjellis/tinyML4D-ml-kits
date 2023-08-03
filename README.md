@@ -57,7 +57,8 @@ Disclaimer: I am Jeremy Ellis (@rocksetta, jerTeach, hpssjellis) and I am biased
 |<a name="11" href="#11">`11`</a> [NXP ML Kit](https://www.nxp.com/) |  |  |  | |  |
 |<a name="12" href="#12">`12`</a> [ST ML Kit](https://www.st.com/en/microcontrollers-microprocessors.html) |  |  |  | |  |
 |<a name="13" href="#13">`13`</a> [Syntiant ML Kit](https://www.syntiant.com/tinyml) |  |  |  | |  |
-|<a name="14" href="#14">`14`</a> Board | cost USD | Image | Pros | Cons | Other |
+|<a name="14" href="#14">`14`</a> [Wio Terminal ML kit](https://www.seeedstudio.com/Wio-Terminal-Getting-Started-with-TinyML-Kit-p-5324.html) | $5.90 | - | Has microphone and a few other sensors | No Wifi, Camera, IMU | Tutorial at [Wio-Terminal-TinyML-Kit-Course]https://wiki.seeedstudio.com/Wio-Terminal-TinyML-Kit-Course/) |
+|<a name="15" href="#15">`15`</a> Board | cost USD | Image | Pros | Cons | Other |
 
 
 
